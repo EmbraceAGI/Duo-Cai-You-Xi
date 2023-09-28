@@ -27,9 +27,17 @@
 ![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/8d7d037c-e05b-42dc-8323-ea7427c7d1d3)
 
 输入开始游戏即可
-![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/0e483b7e-0edf-4cb3-ad51-1dee584d9c94)
+![de7e550e36fa08683564788d7f0fefd](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/9eb036b8-789a-4c39-a695-81f321ac9810)
 
-![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/709dc180-1cec-4c21-b64d-a7976f64d326)
+![034c4f39e8ca6aebdf883d154ee5b33](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/0c5e42af-da94-4bc8-aaac-76aba2c95330)
+
+![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/a427561e-5216-47a9-a5a0-6d4c6bf77a1f)
+
+> 玩家恶搞,hhh
+
+![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/c6a9c22c-1427-4396-959c-0c44d31a8aad)
+
+![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/81f6877f-350a-45da-81e1-46782fcddeae)
 
 ## 🤝开源与社区
 🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持，与 [LangGPT](http://feishu.langgpt.ai) 为姊妹项目。
