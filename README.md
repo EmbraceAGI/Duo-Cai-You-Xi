@@ -22,9 +22,17 @@
 - 请打开GPT-4 的 Advanced Data Analysis（原 Code Interpreter）功能，并将 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 .txt中的所有内容复制粘贴进对话框中运行。
 ### 前置条件
 ⚠️ 请务必开启 GPT-4 的 Advanced Data Analysis（原 Code Interpreter）功能，否则本游戏无法正常运行。目前该功能仅向ChatGPT Plus用户开放。
-获取更新
+
 ### 获取更新
 🔗 本作品不定期更新，请访问 [本项目Github 仓库](https://github.com/Yoink666/Rule-Ghost-Talk) 
+
+## 🤝开源与社区
+
+🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持。
+
+🔗 本游戏为AIGG（AI Good Games）项目成员之一，要探索更多精彩游戏，请点击[AIGG Github主页](https://github.com/EmbraceAGI/AIGoodGames)
+
+我们的交流社区AIGG（AI Good Games）目前正在招募新成员，欢迎每一位玩家和开发者的参与。点击[链接](https://ubdnzdt3m9.feishu.cn/wiki/PqXxw0Sa7iRCUUksuaDcEWDin5g?from=from_copylink)加入AIGG社区，一起探索新游或开发属于自己的游戏！
 
 ## 🎮游戏预览
 下面是一些游戏预览的截图。由于大语言模型的随机性、作者时间以及能力问题，您的游戏体验可能会由于运气上下波动。
@@ -42,9 +50,6 @@
 ![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/c6a9c22c-1427-4396-959c-0c44d31a8aad)
 
 ![image](https://github.com/Yoink666/Rule-Ghost-Talk/assets/130557806/81f6877f-350a-45da-81e1-46782fcddeae)
-
-## 🤝开源与社区
-🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持，与 [LangGPT](http://feishu.langgpt.ai) 为姊妹项目。
 
 ## 📜协议
 🔗 本项目使用 [CC BY-NC-SA 4.0（知识共享-署名-非商业性使用-相同方式共享 4.0 国际）]( https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)协议开源。
