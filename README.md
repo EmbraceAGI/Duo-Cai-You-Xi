@@ -1,4 +1,6 @@
-# 🤡👿规则怪谈解密游戏 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘👿🤡
+# 🌈多彩游戏园🎮 (🌟Duōcǎi Yóuxì Yuán👾)
+
+## 🤡👿规则怪谈解密游戏 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘👿🤡
 ## 🌟引子
 > 🌑 月黑风高，怪谈缠绕，
 > 
@@ -24,7 +26,7 @@
 ⚠️ 请务必开启 GPT-4 的 Advanced Data Analysis（原 Code Interpreter）功能，否则本游戏无法正常运行。目前该功能仅向ChatGPT Plus用户开放。
 
 ### 获取更新
-🔗 本作品不定期更新，请访问 [本项目Github 仓库](https://github.com/Yoink666/Rule-Ghost-Talk) 
+🔗 本作品不定期更新，请访问 [本项目Github 仓库](https://github.com/EmbraceAGI/Duo-Cai-You-Xi) 
 
 ## 🤝开源与社区
 
