@@ -79,6 +79,7 @@
    ii. 查看粗糙的纸张
 > 请作出你的选择(i/ii)
 
+
 ### **万圣节魔法师otty**
 #### 🌟引子
 > 🌕 月圆之夜，魔法风起，
@@ -88,15 +89,8 @@
 
 你面对的是一位热爱万圣节，但又对糖果有所保留的魔法师。尝试在3句话内说服他给你糖果，看看你是否能成功得到甜甜的糖果。
 
-## 🤝开源与社区
 
-🔗 本游戏得到了[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区的支持。
-
-🔗 本游戏为AIGG（AI Good Games）项目成员之一，要探索更多精彩游戏，请点击[AIGG Github主页](https://github.com/EmbraceAGI/AIGoodGames)
-
-我们的交流社区AIGG（AI Good Games）目前正在招募新成员，欢迎每一位玩家和开发者的参与。点击[链接](https://ubdnzdt3m9.feishu.cn/wiki/PqXxw0Sa7iRCUUksuaDcEWDin5g?from=from_copylink)加入AIGG社区，一起探索新游或开发属于自己的游戏！
-
-### 获取更新
+## 获取更新
 🔗 本作品不定期更新，请访问 [本项目Github 仓库](https://github.com/EmbraceAGI/Duo-Cai-You-Xi) 
 
 ## 🤝开源与社区
