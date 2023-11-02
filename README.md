@@ -34,6 +34,8 @@
 - 请打开GPT-4 的 Advanced Data Analysis（原 Code Interpreter）功能，并将 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘 .txt中的所有内容复制粘贴进对话框中运行。
 前置条件
 ⚠️ 请务必开启 GPT-4 的 Advanced Data Analysis（原 Code Interpreter）功能，否则本游戏无法正常运行。目前该功能仅向ChatGPT Plus用户开放。
+<img src="https://github.com/EmbraceAGI/Duo-Cai-You-Xi/assets/130557806/c3bae940-f801-4f14-aa64-c4ea62a3fa29" alt="image" width="500">
+
 ![image](https://github.com/EmbraceAGI/Duo-Cai-You-Xi/assets/130557806/c3bae940-f801-4f14-aa64-c4ea62a3fa29)
 ![image](https://github.com/EmbraceAGI/Duo-Cai-You-Xi/assets/130557806/5ae30f65-b2bf-4475-96de-b6fcbfeaf4cb)
 
