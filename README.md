@@ -1,4 +1,4 @@
-![image](https://github.com/EmbraceAGI/Duo-Cai-You-Xi/assets/130557806/59a64479-c61f-4ee2-a597-b208adaa191a)# 🌈多彩游戏园🎮 (🌟Duōcǎi Yóuxì Yuán👾)
+# 🌈多彩游戏园🎮 (🌟Duōcǎi Yóuxì Yuán👾)
 
 ## 目录
 - [游戏目录](#游戏目录)
