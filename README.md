@@ -19,7 +19,6 @@
 - 作者: [Stell_A](https://okjk.co/rTlQqf)
 <img src="https://github.com/EmbraceAGI/Duo-Cai-You-Xi/assets/130557806/58aea78f-f35e-4ded-b795-2ce1375ca2c7" alt="image" width="500">
 <img src="https://github.com/EmbraceAGI/Duo-Cai-You-Xi/assets/130557806/2aa0d733-4033-4057-b437-155759703079" alt="image" width="500">
-![linjia](https://github.com/EmbraceAGI/Duo-Cai-You-Xi/assets/130557806/453d5c5a-0bed-47ee-9f43-80381a20d256)
 
 
 ## 🤡👿规则怪谈解密游戏 𝐑𝑢𝑙𝑒 𝐺𝒉𝑜𝑠𝑡 𝑇𝑎𝑙𝑘👿🤡(#-code interpreter版本v1.2)
